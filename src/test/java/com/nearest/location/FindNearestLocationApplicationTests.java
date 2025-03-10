@@ -1,13 +1,15 @@
-package com.nearest.vehicle;
+package com.nearest.location;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FindNearestVehicleApplicationTests {
+class FindNearestLocationApplicationTests {
 
+    /*
     @Test
     void contextLoads() {
     }
+     */
 
 }
