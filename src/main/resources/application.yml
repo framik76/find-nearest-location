@@ -1,0 +1,12 @@
+server:
+    port: 8080
+
+spring:
+    application:
+        name: find-nearest-vehicle
+
+redis:
+    host: localhost
+    port: 6379
+
+
